@@ -14,5 +14,5 @@ API to obtain the information of a legal entity
 ### Método POST para guardar la información de una persona jurídica
   Para guardar la información de una persona jurídica se debe realizar una petición POST a la URL http://localhost:8080/legal-person, mencionada al incio, mandándole el   objeto JSON que se obtiene al solicitar los datos de una persona jurídica mediante el endpoint que recibe por parámetros el tipo y el nro de RUC.
   
-## Visualización de la documentación del API mediante Swagger
+### Visualización de la documentación del API mediante Swagger
   Para visualizar la documentación del API mediante la interfaz gráfica de Swagger-UI colocar la URL http://localhost:8080/swagger-ui.html en el navegador.
